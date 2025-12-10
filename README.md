@@ -1,16 +1,18 @@
-# flutter_application_1
+Aplikasi Jam  digital
 
-A new Flutter project.
+jam digital adalah alat penunjuk waktu yang menampilkan jam, menit, dan detik dalam bentuk angka pada layar elektronik. Jam ini mudah dibaca, praktis, dan sering dilengkapi fitur tambahan seperti alarm, kalender, dan pengatur waktu.
+Fitur jam digital umumnya meliputi:
 
-## Getting Started
+Penunjuk waktu (jam, menit, detik) dalam angka
+Alarm untuk pengingat
+Format 12/24 jam
+Stopwatch dan timer
 
-This project is a starting point for a Flutter application.
+cara menjalankan:
+flutter clean
+flutter pub get
+flutter run
+pilih browser yang digunakan 
+setelah itu enter
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
